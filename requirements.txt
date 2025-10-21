@@ -21,3 +21,4 @@ fastapi
 pydantic
 beautifulsoup4
 pytest
+Groq
